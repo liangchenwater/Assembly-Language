@@ -1,3 +1,3 @@
 # Assembly-Language
-Assembly Language Course in ZJU, 2020
+Assembly Language Course in ZJU, 2020.
 Writing 80(3)86 assembly code on WindowsXP, even on DOS in 2020, trying to revive a lost art...
